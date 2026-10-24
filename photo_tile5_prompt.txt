@@ -1,0 +1,6 @@
+Edit this photo. It shows 3 dangling diamonds on a gold ball chain. Change ONLY the shape of these 3 diamonds from marquise cut to pear cut (teardrop: wide rounded end facing DOWN, single pointed end facing UP toward the chain).
+Strict rules:
+- Exactly 3 stones, same positions, same size, same tilt, same relative size differences. Do not add, remove, merge or move any stone.
+- Keep the thin gold prong at the top of each stone and the gold ball chain exactly as they are.
+- Photorealistic diamond: crisp facets, sharp bright reflections, same sparkle style. No blur, no glow, no halo, no extra bezel.
+- Do not change skin, freckles, hand, clothing, lighting, framing, zoom or colors. Output the same framing as the input.
